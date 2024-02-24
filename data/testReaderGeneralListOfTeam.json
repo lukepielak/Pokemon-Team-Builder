@@ -1,0 +1,60 @@
+{"teams": [
+  {
+    "teamName": "Fire Team",
+    "pokemonList": [
+      {
+        "pokemonName": "Charmander",
+        "type1": "FIRE"
+      },
+      {
+        "pokemonName": "Charmeleon",
+        "type1": "FIRE"
+      },
+      {
+        "pokemonName": "Charizard",
+        "type1": "FIRE"
+      }
+    ]
+  },
+  {
+    "teamName": "Bug Team",
+    "pokemonList": [
+      {
+        "pokemonName": "Caterpie",
+        "type1": "BUG"
+      },
+      {
+        "type2": "POISON",
+        "pokemonName": "Weedle",
+        "type1": "BUG"
+      },
+      {
+        "type2": "POISON",
+        "pokemonName": "Beedrill",
+        "type1": "BUG"
+      },
+      {
+        "type2": "FLYING",
+        "pokemonName": "Butterfree",
+        "type1": "BUG"
+      }
+    ]
+  },
+  {
+    "teamName": "Water Team",
+    "pokemonList": [
+      {
+        "pokemonName": "Squirtle",
+        "type1": "WATER"
+      },
+      {
+        "pokemonName": "Wartortle",
+        "type1": "WATER"
+      },
+      {
+        "pokemonName": "Blastoise",
+        "type1": "WATER"
+      }
+    ]
+  }
+]}
